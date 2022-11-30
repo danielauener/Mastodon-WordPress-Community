@@ -1,6 +1,7 @@
 account,name,link,keywords,language
 @alexstandiford@fosstodon.org,Alex Standiford,https://fosstodon.org/@alexstandiford,core-contributor plugin-developer wordcamp-speaker,en
 @andyfragen@wptoots.social,Andy Fragen,https://wptoots.social/@andyfragen,core-contributor core-team meta-contributor plugin-developer test-contributor wordcamp-speaker,en
+@chris@mastodon.chriswiegman.com,Chris Wiegman,https://mastodon.chriswiegman.com/@chris,core-contributor meta-contributor meta-team photo-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
 @coenjacobs@fosstodon.org,Coen Jacobs,https://fostodon.org/@coenjacobs,BuddyPress-contributor core-contributor plugin-developer translation-contributor wordcamp-speaker wordpress-tv-contributor,en
 @courtneyr_dev@fosstodon.org,Courtney Robertson,https://fosstodon.org/@courtneyr_dev,core-contributor marketing-contributor meta-contributor meta-team pattern-author photo-contributor plugin-developer test-contributor training-contributor training-team wordcamp-speaker,en
 @dan@danq.me,Dan Q,https://m.danq.me/@dan,automattician,en
@@ -19,11 +20,13 @@ account,name,link,keywords,language
 @joost@joost.net,Joost de Valk,https://joost.net/@joost,core-contributor marketing-contributor meta-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
 @josh412@fosstodon.org,Josh Pollock,https://fostodon.org/@josh412,core-contributor documentation-contributor meta-contributor photo-contributor plugin-developer theme-developer themes-team wordcamp-speaker,en
 @jrtashjian@talos.link,JR Tashjian,https://talos.link/@jrtashjian,core-contributor meta-contributor plugin-developer wordcamp-speaker,en
+@kraft@mastodon.online,Brandon Kraft,https://mastodon.online/@kraft,core-contributor documentation-contributor meta-contributor plugin-developer translation-contributor wordcamp-speaker,en
 @lopo@mastodon.uno,Enrico Battocchi,https://mastodon.uno/@lopo,core-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,it en
 @mathetos@fosstodon.org,Matt Cromwell,https://fostodon.org/@mathetos,core-contributor documentation-contributor meta-contributor plugin-developer support-contributor translation-contributor wordcamp-organizer wordcamp-speaker,en
 @mattwatson@wptoots.social,Matt Watson,https://wptoots.social/@mattwatson,plugin-developer wordcamp-organizer,en
 @mbootsman@toot.re,Marcel Bootsman,https://toot.re/@mbootsman,core-contributor documentation-contributor hosting-contributor meta-contributor plugin-developer support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-bpeaker,en
 @mhanes@tech.lgbt,Meagan Hanes,https://tech.lgbt/@mhanes,community-contributor core-contributor meetup-organizer photo-contributor plugin-developer training-contributor wordcamp-organizer wordcamp-speaker,en
+@nathan@wpbuilds.social,Nathan Wrigley,https://wpbuilds.social/@nathan,wpbuilds.social-admin,en
 @nahuai@mastodon.social,Nahuai Badiola,https://mastodon.social/@nahuai,meetup-organizer photo-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en es
 @nielsdeblaauw@phpc.social,Niels de Blaauw,https://phpc.social/@nielsdeblaauw,core-contributor plugin-developer translation-contributor wordcamp-speaker,en
 @nbwpuk@infosec.exchange,Neil Batchelor,https://infosec.exchange/@nbwpuk,meetup-organizer,en
