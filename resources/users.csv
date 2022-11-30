@@ -1,6 +1,7 @@
 account,name,link,keywords,language
 @alexstandiford@fosstodon.org,Alex Standiford,https://fosstodon.org/@alexstandiford,core-contributor plugin-developer wordcamp-speaker,en
 @andyfragen@wptoots.social,Andy Fragen,https://wptoots.social/@andyfragen,core-contributor core-team meta-contributor plugin-developer test-contributor wordcamp-speaker,en
+@coenjacobs@fosstodon.org,Coen Jacobs,https://fostodon.org/@coenjacobs,BuddyPress-contributor core-contributor plugin-developer translation-contributor wordcamp-speaker wordpress-tv-contributor,en
 @courtneyr_dev@fosstodon.org,Courtney Robertson,https://fosstodon.org/@courtneyr_dev,core-contributor marketing-contributor meta-contributor meta-team pattern-author photo-contributor plugin-developer test-contributor training-contributor training-team wordcamp-speaker,en
 @dan@danq.me,Dan Q,https://m.danq.me/@dan,automattician,en
 @danielauener@wptoots.social,Daniel Auener,https://wptoots.social/@danielauener,plugin-developer wordcamp-speaker wptoots.social-admin,en
@@ -15,14 +16,17 @@ account,name,link,keywords,language
 @jasontucker@simian.rodeo,Jason Tucker,https://simian.rodeo/@jasontucker,wordcamp-organizer wordcamp-speaker,en
 @jeffpaul@mastodon.social,Jeffrey Paul,https://mastodon.social/@jeffpaul,core-contributor core-performance-contributor core-performance-team core-team documentation-contributor meta-contributor plugin-developer security-contributor security-team test-contributor tide-contributor tide-team translation-contributor wordcamp-speaker,en
 @joost@joost.net,Joost de Valk,https://joost.net/@joost,core-contributor marketing-contributor meta-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
+@josh412@fosstodon.org,Josh Pollock,https://fostodon.org/@josh412,core-contributor documentation-contributor meta-contributor photo-contributor plugin-developer theme-developer themes-team wordcamp-speaker,en
 @jrtashjian@talos.link,JR Tashjian,https://talos.link/@jrtashjian,core-contributor meta-contributor plugin-developer wordcamp-speaker,en
 @lopo@mastodon.uno,Enrico Battocchi,https://mastodon.uno/@lopo,core-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,it en
+@mathetos@fosstodon.org,Matt Cromwell,https://fostodon.org/@mathetos,core-contributor documentation-contributor meta-contributor plugin-developer support-contributor translation-contributor wordcamp-organizer wordcamp-speaker,en
 @mattwatson@wptoots.social,Matt Watson,https://wptoots.social/@mattwatson,plugin-developer wordcamp-organizer,en
 @mbootsman@toot.re,Marcel Bootsman,https://toot.re/@mbootsman,core-contributor documentation-contributor hosting-contributor meta-contributor plugin-developer support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-bpeaker,en
 @mhanes@tech.lgbt,Meagan Hanes,https://tech.lgbt/@mhanes,community-contributor core-contributor meetup-organizer photo-contributor plugin-developer training-contributor wordcamp-organizer wordcamp-speaker,en
 @nahuai@mastodon.social,Nahuai Badiola,https://mastodon.social/@nahuai,meetup-organizer photo-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en es
 @nielsdeblaauw@phpc.social,Niels de Blaauw,https://phpc.social/@nielsdeblaauw,core-contributor plugin-developer translation-contributor wordcamp-speaker,en
 @nbwpuk@infosec.exchange,Neil Batchelor,https://infosec.exchange/@nbwpuk,meetup-organizer,en
+@otto42@fosstodon.org,Otto,https://fostodon.org/@otto42,bbPress-contributor core-contributor core-performance-contributor core-performance-team documentation-contributor documentation-team marketing-contributor meta-contributor meta-team photo-contributor photos-team plugin-developer plugin-review-team security-contributor security-team support-contributor support-team themes-team translation-contributor translation-editor wordcamp-speaker,en
 @overengineer@fosstodon.org,overengineer,https://fosstodon.org/@overengineer,plugin-developer translation-contributor translation-editor,en
 @pfefferle@mastodon.social,Matthias Pfefferle,https://mastodon.social/@pfefferle,core-contributor hosting-contributor hosting-team meta-contributor photo-contributor plugin-developer theme-developer translation-contributor translation-editor wordcamp-speaker,en de
 @phillycodehound@masto.ai,Seth Goldstein,https://masto.ai/@phillycodehound,photo-contributor,en
