@@ -2,6 +2,8 @@ account,name,link,keywords,language
 @alan@wpbuilds.social,Alan Fuller,https://wpbuilds.social/@alan,plugin-developer translation-contributor,en
 @alexstandiford@fosstodon.org,Alex Standiford,https://fosstodon.org/@alexstandiford,core-contributor plugin-developer wordcamp-speaker,en
 @andyfragen@wptoots.social,Andy Fragen,https://wptoots.social/@andyfragen,core-contributor core-team meta-contributor plugin-developer test-contributor wordcamp-speaker,en
+@billerickson@techhub.social,Bill Erickson,https://techhub.social/@billerickson,core-contributor meetup-organizer plugin-developer wordcamp-speaker,en
+@BobWP@wpbuilds.social,BobWP,https://wpbuilds.social/@BobWP,wordcamp-organizer wordcamp-speaker,en
 @boogah@simian.rodeo,Jason Cosper,https://simian.rodeo/@boogah,core-contributor hosting-contributor photo-contributor training-contributor wordcamp-speaker,en
 @bovelett@wpbuilds.social,Anne Bovelett,https://wpbuilds.social/@bovelett,photo-contributor translation-contributor wordcamp-organizer,en
 @cdils@wpbuilds.social,Carrie Dils,https://wpbuilds.social/@cdils,documentation-contributor plugin-developer test-contributor wordcamp-organizer wordcamp-speaker,en
@@ -21,7 +23,6 @@ account,name,link,keywords,language
 @django@social.coop,Django,https://social.coop/@django,plugin-developer,en fr es
 @donnacavalier@wptoots.social,Donna Cavalier,https://wptoots.social/@donnacavalier,core-contributor meta-contributor pattern-author photo-contributor,en
 @donncha@mastodon.ie,Donncha Ó Caoimh,https://mastodon.ie/@donncha,core-contributor plugin-developer translation-contributor,en
-@dothewoo@mastodon.social,BobWP,https://mastodon.social/@dothewoo,wordcamp-organizer wordcamp-speaker,en
 @dougal@mastodon.social,Dougal Campbell,https://mastodon.social/@dougal,bbpress-contributor core-contributor plugin-developer wordcamp-speaker,en
 @edent@mastodon.social,Terence Eden,https://mastodon.social/@Edent,core-contributor plugin-developer translation-contributor,en
 @ericmann@tekton.network,Eric Mann,https://tekton.network,core-contributor plugin-developer wordcamp-speaker,en
