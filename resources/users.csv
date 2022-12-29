@@ -1,8 +1,10 @@
 account,name,link,keywords,language
+@100son_net@mastodon.social,Cyrille Sanson,https://mastodon.social/@100son_net,meetup-organizer translation-contributor translation-editor wordcamp-speaker,en
 @alan@wpbuilds.social,Alan Fuller,https://wpbuilds.social/@alan,plugin-developer translation-contributor,en
 @alexstandiford@fosstodon.org,Alex Standiford,https://fosstodon.org/@alexstandiford,core-contributor plugin-developer wordcamp-speaker,en
 @amberhinds@fosstodon.org,Amber Hinds,https://fosstodon.org/@amberhinds,accessibility-contributor documentation-contributor meetup-organizer plugin-developer wordcamp-organizer wordcamp-speaker,en
 @andyfragen@wptoots.social,Andy Fragen,https://wptoots.social/@andyfragen,core-contributor core-team meta-contributor plugin-developer test-contributor wordcamp-speaker,en
+@avillegasn@mastodon.social,Antonio Villegas,https://mastodon.social/@avillegasn,core-contributor meetup-organizer meta-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
 @billerickson@techhub.social,Bill Erickson,https://techhub.social/@billerickson,core-contributor meetup-organizer plugin-developer wordcamp-speaker,en
 @BobWP@wpbuilds.social,BobWP,https://wpbuilds.social/@BobWP,wordcamp-organizer wordcamp-speaker,en
 @boogah@simian.rodeo,Jason Cosper,https://simian.rodeo/@boogah,core-contributor hosting-contributor photo-contributor training-contributor wordcamp-speaker,en
@@ -11,6 +13,7 @@ account,name,link,keywords,language
 @cdils@wpbuilds.social,Carrie Dils,https://wpbuilds.social/@cdils,documentation-contributor plugin-developer test-contributor wordcamp-organizer wordcamp-speaker,en
 @chris@mastodon.chriswiegman.com,Chris Wiegman,https://mastodon.chriswiegman.com/@chris,core-contributor meta-contributor meta-team photo-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
 @chriscoyier@front-end.social,Chris Coyier,https://front-end.social/@chriscoyier,core-contributor plugin-developer wordcamp-speaker,en
+@chrisdavidmiles@mstdn.social,Chris David Miles,https://mstdn.social/@chrisdavidmiles,plugin-developer wordcamp-speaker,en
 @ChrisHardie@mastodon.social,Chris Hardie,https://@mastodon.social/@ChrisHardie,core-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
 @christopher@dewp.space,Christopher Kurth,https://dewp.space/@christopher,photo-contributor translation-contributor translation-editor wordcamp-organizer,en
 @coenjacobs@fosstodon.org,Coen Jacobs,https://fosstodon.org/@coenjacobs,BuddyPress-contributor core-contributor plugin-developer translation-contributor wordcamp-speaker wordpress-tv-contributor,en
@@ -55,6 +58,7 @@ account,name,link,keywords,language
 @mathetos@fosstodon.org,Matt Cromwell,https://fosstodon.org/@mathetos,core-contributor documentation-contributor meta-contributor plugin-developer support-contributor translation-contributor wordcamp-organizer wordcamp-speaker,en
 @mattwatson@wptoots.social,Matt Watson,https://wptoots.social/@mattwatson,plugin-developer wordcamp-organizer,en
 @mbootsman@toot.re,Marcel Bootsman,https://toot.re/@mbootsman,core-contributor documentation-contributor hosting-contributor meta-contributor plugin-developer support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-bpeaker,en
+@mgratch@fosstodon.org,Marc Gratch,https://fosstodon.org/@mgratch,meetup-organizer wordcamp-organizer wordcamp-speaker,en
 @mhanes@tech.lgbt,Meagan Hanes,https://tech.lgbt/@mhanes,community-contributor core-contributor meetup-organizer photo-contributor plugin-developer training-contributor wordcamp-organizer wordcamp-speaker,en
 @michelebutcherjones@mastodon.social,Michele Butcher-Jones,https://mastodon.social/@michelebutcherjones,core-contributor core-team meetup-organizer plugin-developer wordcamp-organizer wordcamp-speaker,en
 @morganestes@mastodon.sdf.org,Morgan Estes,https://mastodon.sdf.org/@morganestes,core-contributor documentation-contributor meta-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
