@@ -40,6 +40,8 @@ account,name,link,keywords,language
 @elliot@wpbuilds.social,Elliot Sowersby,https://wpbuilds.social/@elliot,plugin-developer translation-contributor,en
 @eric_maechler@mastodon.digitalsuccess.dev,Eric Mächler,https://mastodon.digitalsuccess.dev/@eric_maechler,plugin-developer translation-contributor,de
 @ericmann@tekton.network,Eric Mann,https://tekton.network,core-contributor plugin-developer wordcamp-speaker,en
+@florian@dewp.space,Florian Brinkmann,https://dewp.space/@florian,core-contributor plugin-developer theme-developer translation-contributor translation-editor,de
+@frank@dewp.space,Frank Schmittlein,https://dewp.space/@frank,meetup-organizer translation-contributor wordcamp-speaker wordpress-tv-contributor,de
 @futtta@mastodon.social,Frank Goossens,https://mastodon.social/@futtta,core-contributor plugin-developer translation-contributor translation-editor,en
 @gutenbergtimes@twit.social,Birgit Pauli-Haack,https://twit.social/@gutenbergtimes,community-contributor community-team core-contributor core-team documentation-contributor documentation-team meetup-organizer meta-contributor photo-contributor test-contributor wordcamp-organizer wordcamp-speaker,en
 @herchenroder@motern.media,herchenroder,https://motern.media/@herchenroder,plugin-developer,en
@@ -59,6 +61,7 @@ account,name,link,keywords,language
 @jplambeck@wp-social.net,Jan-Peter Lambeck,https://wp-social.net/@jplambeck,plugin-developer translation-contributor translation-editor wordcamp-speaker,de en
 @jrf_nl@phpc.social,Juliette Reinders Folmer,https://phpc.social/@jrf_nl,bbpress-contributor core-contributor core-team documentation-contributor meta-contributor plugin-developer test-contributor test-team tide-contributor translation-contributor wordcamp-speaker wp-cli-contributor,en
 @jrtashjian@talos.link,JR Tashjian,https://talos.link/@jrtashjian,core-contributor meta-contributor plugin-developer wordcamp-speaker,en
+@justinfoell@phpc.social,Justin Foell,https://phpc.social/@justinfoell,meetup-organizer plugin-developer translation-contributor wordcamp-organizer wordcamp-speaker,en
 @kraft@mastodon.online,Brandon Kraft,https://mastodon.online/@kraft,core-contributor documentation-contributor meta-contributor plugin-developer translation-contributor wordcamp-speaker,en
 @LarsHenriksen@mastodon.nu,Lars Henriksen,https://mastodon.nu/@LarsHenriksen,translation-contributor translation-editor,dk en
 @lopo@mastodon.uno,Enrico Battocchi,https://mastodon.uno/@lopo,core-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,it en
