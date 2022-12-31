@@ -9,6 +9,7 @@ account,name,link,keywords,language
 @aurooba@mastodon.aurooba.com,Aurooba Ahmed,https://mastodon.aurooba.com/@aurooba,core-contributor documentation-contributor marketing-contributor meetup-organizer plugin-developer test-contributor training-contributor translation-contributor wordcamp-organizer wordcamp-speaker,en
 @avillegasn@mastodon.social,Antonio Villegas,https://mastodon.social/@avillegasn,core-contributor meetup-organizer meta-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
 @billerickson@techhub.social,Bill Erickson,https://techhub.social/@billerickson,core-contributor meetup-organizer plugin-developer wordcamp-speaker,en
+@bjorn@mastodon.social,Bjørn Johansen,https://mastodon.social/@bjorn,core-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
 @BobWP@wpbuilds.social,BobWP,https://wpbuilds.social/@BobWP,wordcamp-organizer wordcamp-speaker,en
 @boogah@simian.rodeo,Jason Cosper,https://simian.rodeo/@boogah,core-contributor hosting-contributor photo-contributor training-contributor wordcamp-speaker,en
 @bovelett@wpbuilds.social,Anne Bovelett,https://wpbuilds.social/@bovelett,photo-contributor translation-contributor wordcamp-organizer,en
@@ -113,6 +114,7 @@ account,name,link,keywords,language
 @stefanocassone@mastodon.uno,Stefano Cassone,https://mastodon.uno/@stefanocassone,meetup-organizer photo-contributor photos-team translation-contributor translation-editor wordcamp-organizer,it
 @steffen@dewp.space,Steffen Dressler,https://dewp.space/@steffen,translation-contributor translation-editor wordcamp-organizer,en de
 @sterndata@fosstodon.org,Steven Stern,https://fosstodon.org/@sterndata,core-contributor meta-contributor support-contributor support-team wordcamp-organizer wordcamp-speaker,en
+@stevegrunwell@mastodon.social,Steve Grunwell,https://mastodon.social/@stevegrunwell,core-contributor documentation-contributor plugin-developer translation-contributor wordcamp-speaker,en
 @takis@libretooth.gr,Takis Bouyouris,https://libretooth.gr/@takis,core-contributor meetup-organizer plugin-developer support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
 @tellyworth@ioc.exchange,tellyworth,https://ioc.exchange/@tellyworth,core-contributor core-team meta-contributor meta-team plugin-developer wordcamp-speaker,en
 @tillkruss@mastodon.social,Till Krüss,https://mastodon.social/@tillkruss,core-contributor core-performance-contributor core-performance-team plugin-developer theme-developer translation-contributor,en
