@@ -11,6 +11,7 @@ account,name,link,keywords,language
 @BobWP@wpbuilds.social,BobWP,https://wpbuilds.social/@BobWP,wordcamp-organizer wordcamp-speaker,en
 @boogah@simian.rodeo,Jason Cosper,https://simian.rodeo/@boogah,core-contributor hosting-contributor photo-contributor training-contributor wordcamp-speaker,en
 @bovelett@wpbuilds.social,Anne Bovelett,https://wpbuilds.social/@bovelett,photo-contributor translation-contributor wordcamp-organizer,en
+@bph@mastodon.social,Birgit Pauli-Haack,https://mastodon.social/@bph,community-contributor community-team core-contributor core-team documentation-contributor documentation-team meetup-organizer meta-contributor photo-contributor test-contributor wordcamp-organizer wordcamp-speaker,en de
 @bueltge@home.social,Frank Bueltge,https://home.social/@bueltge,core-contributor plugin-developer translation-contributor translation-editor wordcamp-speaker,en de
 @cdils@wpbuilds.social,Carrie Dils,https://wpbuilds.social/@cdils,documentation-contributor plugin-developer test-contributor wordcamp-organizer wordcamp-speaker,en
 @chris@mastodon.chriswiegman.com,Chris Wiegman,https://mastodon.chriswiegman.com/@chris,core-contributor meta-contributor meta-team photo-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
@@ -43,7 +44,6 @@ account,name,link,keywords,language
 @florian@dewp.space,Florian Brinkmann,https://dewp.space/@florian,core-contributor plugin-developer theme-developer translation-contributor translation-editor,de
 @frank@dewp.space,Frank Schmittlein,https://dewp.space/@frank,meetup-organizer translation-contributor wordcamp-speaker wordpress-tv-contributor,de
 @futtta@mastodon.social,Frank Goossens,https://mastodon.social/@futtta,core-contributor plugin-developer translation-contributor translation-editor,en
-@bph@mastodon.social,Birgit Pauli-Haack,https://mastodon.social/@bph,community-contributor community-team core-contributor core-team documentation-contributor documentation-team meetup-organizer meta-contributor photo-contributor test-contributor wordcamp-organizer wordcamp-speaker,en de
 @herchenroder@motern.media,herchenroder,https://motern.media/@herchenroder,plugin-developer,entwit.social
 @hgg@wp-social.net,Hans-Gerd Gerhards,https://wp-social.net/@hgg,meetup-organizer photo-contributor plugin-developer support-contributor support-team test-contributor translation-contributor translation-editor,de
 @itsjustdj@tech.lgbt,D.J.,https://tech.lgbt/@itsjustdj,test-contributor wordcamp-organizer,en
