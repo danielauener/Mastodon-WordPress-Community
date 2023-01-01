@@ -33,6 +33,7 @@ account,name,link,keywords,language
 @david@tech.lgbt,david wolfpaw,https://tech.lgbt/@david,meetup-organizer photo-contributor plugin-developer theme-developer wordcamp-organizer wordcamp-speaker,en
 @davidbisset@phpc.social,David Bisset,https://phpc.social/@davidbisset,buddypress-contributor community-contributor meetup-organizer meta-contributor photo-contributor plugin-developer translation-contributor wordcamp-organizer wordcamp-speaker,en
 @davidfcarr@nerdculture.de,David F. Carr,https://nerdculture.de/@davidfcarr,plugin-developer theme-developer,de en
+@dialogcrm@mastodon.nz,Jason Kemp,https://mastodon.nz/@dialogcrm,wordcamp-organizer,en
 @django@social.coop,Django,https://social.coop/@django,plugin-developer,en fr es
 @donnacavalier@wptoots.social,Donna Cavalier,https://wptoots.social/@donnacavalier,core-contributor meta-contributor pattern-author photo-contributor,en
 @donncha@mastodon.ie,Donncha Ó Caoimh,https://mastodon.ie/@donncha,core-contributor plugin-developer translation-contributor,en
@@ -41,6 +42,7 @@ account,name,link,keywords,language
 @dustinrue@mastodon.dustinrue.com,Dustin Rue,https://mastodon.dustinrue.com/@dustinrue,core-contributor,en
 @edent@mastodon.social,Terence Eden,https://mastodon.social/@Edent,core-contributor plugin-developer translation-contributor,en
 @elliot@wpbuilds.social,Elliot Sowersby,https://wpbuilds.social/@elliot,plugin-developer translation-contributor,en
+@emanuel@toot.community,Emanuel Blagonic,https://toot.community/@emanuel,community-contributor core-contributor translation-contributor wordcamp-organizer wordcamp-speaker,en
 @eric_maechler@mastodon.digitalsuccess.dev,Eric Mächler,https://mastodon.digitalsuccess.dev/@eric_maechler,plugin-developer translation-contributor,de
 @ericmann@tekton.network,Eric Mann,https://tekton.network,core-contributor plugin-developer wordcamp-speaker,en
 @florian@dewp.space,Florian Brinkmann,https://dewp.space/@florian,core-contributor plugin-developer theme-developer translation-contributor translation-editor,de
@@ -108,6 +110,7 @@ account,name,link,keywords,language
 @roytanck@mastodon.online,Roy Tanck,https://mastodon.online/@roytanck,core-contributor meta-contributor photo-contributor plugin-developer translation-contributor translation-editor wordcamp-speaker,en
 @ryanboren@social.coop,Ryan Boren,https://social.coop/@ryanboren,bbpress-contributor core-contributor core-team meta-contributor plugin-developer,en
 @ryelle@front-end.social,Kelly Choyce-Dwan,https://front-end.social/@ryelle,accessibility-contributor bbpress-contributor core-contributor core-team meta-contributor patterns-team plugin-developer theme-developer themes-team wordcamp-organizer wordcamp-speaker,en
+@salcode@phpc.social,Sal Ferrarello,https://phpc.social/@salcode,core-contributor documentation-contributor plugin-developer translation-contributor wordcamp-speaker,en
 @sandy@sandym.ca,Sandy McFadden,https://sandym.ca/@sandy,plugin-developer,en
 @sarahgooding@fosstodon.org,Sarah Gooding,https://fosstodon.org/@sarahgooding,buddypress-contributor core-contributor photo-contributor plugin-developer test-contributor theme-developer,en
 @sebastienserre@wptoots.social,Sébastien SERRE,https://wptoots.social/@sebastienserre,core-contributor documentation-contributor meta-contributor photo-contributor plugin-developer translation-contributor translation-editor wordcamp-speaker,fr en
