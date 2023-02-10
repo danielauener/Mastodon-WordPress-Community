@@ -112,7 +112,7 @@ account,name,link,keywords,language
 @nbwpuk@infosec.exchange,Neil Batchelor,https://infosec.exchange/@nbwpuk,meetup-organizer,en
 @otto42@fosstodon.org,Otto,https://fostodon.org/@otto42,bbpress-contributor core-contributor core-performance-contributor core-performance-team documentation-contributor documentation-team marketing-contributor meta-contributor meta-team photo-contributor photos-team plugin-developer plugin-review-team security-contributor security-team support-contributor support-team themes-team translation-contributor translation-editor wordcamp-speaker,en
 @overengineer@fosstodon.org,overengineer,https://fosstodon.org/@overengineer,plugin-developer translation-contributor translation-editor,en
-@patriciabt@tooting.ch,Patricia BT,https://tooting.ch/@patriciabt,meetup-organizer wordcamp-organizer wordcamp-speaker,en fr
+@patriciabt@tooting.ch,Patricia BT,https://tooting.ch/@patriciabt,meetup-organizer community-contributor wordcamp-organizer wordcamp-speaker wordcamp-mentor,en fr
 @paul@digitalstuntfactory.com,Paul Jacobson,https://digitalstuntfactory.com/@paul,plugin-developer,en
 @paulvanbuuren@mastodon.social,Paul van Buuren,https://mastodon.social/@paulvanbuuren,translation-contributor wordcamp-speaker,en nl de fr
 @perishable@mastodon.social,Jeff Starr,https://mastodon.social/@perishable,plugin-developer,en
@@ -141,7 +141,7 @@ account,name,link,keywords,language
 @sarahgooding@fosstodon.org,Sarah Gooding,https://fosstodon.org/@sarahgooding,buddypress-contributor core-contributor photo-contributor plugin-developer test-contributor theme-developer,en
 @sbruner@mastodon.cloud,Steve Bruner,https://mastodon.cloud/@sbruner,core-contributor meetup-organizer plugin-developer wordcamp-organizer wordcamp-speaker,en
 @sebastienserre@wptoots.social,Sébastien SERRE,https://wptoots.social/@sebastienserre,core-contributor documentation-contributor meta-contributor photo-contributor plugin-developer translation-contributor translation-editor wordcamp-speaker,fr en
-@Sephsekla@mastodon.lol,Joe Bailey-Roberts,https://mastodon.lol/@Sephsekla,core-contributor translation-contributor,en
+@Sephsekla@tech.lgbt,Joe Bailey-Roberts,https://tech.lgbt/@Sephsekla,core-contributor translation-contributor,en
 @sereedmedia@mastodon.social,sé reed,https://mastodon.social,wordcamp-organizer wordcamp-speaker,en
 @Sergio@fosstodon.org,Sergio Scabuzzo,https://fosstodon.org/@Sergio,core-contributor core-performance-contributor photo-contributor plugin-developer translation-contributor wordcamp-speaker wp-cli-contributor,en
 @shawnhooper@fosstodon.org,Shawn Hooper,https://fosstodon.org/@shawnhooper,core-contributor meetup-organizer photo-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en fr
@@ -151,6 +151,7 @@ account,name,link,keywords,language
 @skc@fosstodon.org,Scott Kingsley Clark,https://fosstodon.org,core-contributor plugin-developer translation-contributor wordcamp-organizer wordcamp-speaker,en
 @stefanocassone@mastodon.uno,Stefano Cassone,https://mastodon.uno/@stefanocassone,meetup-organizer photo-contributor photos-team translation-contributor translation-editor wordcamp-organizer,it
 @steffen@dewp.space,Steffen Dressler,https://dewp.space/@steffen,translation-contributor translation-editor wordcamp-organizer,en de
+@StephenCronin@fosstodon.org,Stephen Cronin,https://fosstodon.org/@StephenCronin,core-contributor plugin-developer wordcamp-speaker,en 
 @sterndata@fosstodon.org,Steven Stern,https://fosstodon.org/@sterndata,core-contributor meta-contributor support-contributor support-team wordcamp-organizer wordcamp-speaker,en
 @stevegrunwell@mastodon.social,Steve Grunwell,https://mastodon.social/@stevegrunwell,core-contributor documentation-contributor plugin-developer translation-contributor wordcamp-speaker,en
 @takis@libretooth.gr,Takis Bouyouris,https://libretooth.gr/@takis,core-contributor meetup-organizer plugin-developer support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
