@@ -46,6 +46,7 @@ account,name,link,keywords,language
 @davidperez@wpmastodon.es,David Pérez,https://wpmastodon.es/@davidperez,meetup-organizer plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker wordpress-tv-contributor wordpress-tv-team,es en
 @dialogcrm@mastodon.nz,Jason Kemp,https://mastodon.nz/@dialogcrm,wordcamp-organizer,en
 @django@social.coop,Django,https://social.coop/@django,plugin-developer,en fr es
+@dominik@indieweb.social,Dominik Schilling,https://indieweb.social/@dominik,bbpress-contributor buddypress-contributor core-contributor core-team documentation-contributor meta-contributor meta-team plugin-developer security-contributor security-team translation-contributor translation-editor wordcamp-speaker wp-cli-contributor,en
 @donnacavalier@wptoots.social,Donna Cavalier,https://wptoots.social/@donnacavalier,core-contributor meta-contributor pattern-author photo-contributor,en
 @donncha@mastodon.ie,Donncha Ó Caoimh,https://mastodon.ie/@donncha,core-contributor plugin-developer translation-contributor,en
 @dougal@mastodon.social,Dougal Campbell,https://mastodon.social/@dougal,bbpress-contributor core-contributor plugin-developer wordcamp-speaker,en
@@ -56,6 +57,7 @@ account,name,link,keywords,language
 @emanuel@toot.community,Emanuel Blagonic,https://toot.community/@emanuel,community-contributor core-contributor translation-contributor wordcamp-organizer wordcamp-speaker,en
 @eric_maechler@mastodon.digitalsuccess.dev,Eric Mächler,https://mastodon.digitalsuccess.dev/@eric_maechler,plugin-developer translation-contributor,de
 @ericmann@tekton.network,Eric Mann,https://tekton.network,core-contributor plugin-developer wordcamp-speaker,en
+@fabiankaegy@mastodon.social,Fabian Kägy,https://mastodon.social/@fabiankaegy,core-contributor documentation-contributor meta-contributor plugin-developer test-contributor translation-contributor wordcamp-speaker,en
 @florian@dewp.space,Florian Brinkmann,https://dewp.space/@florian,core-contributor plugin-developer theme-developer translation-contributor translation-editor,de
 @frank@dewp.space,Frank Schmittlein,https://dewp.space/@frank,meetup-organizer translation-contributor wordcamp-speaker wordpress-tv-contributor,de
 @frantorres@mastodon.social,Francisco Torres,https://mastodon.social/@frantorres,meetup-organizer plugin-developer translation-contributor wordcamp-organizer wordcamp-speaker,en
@@ -134,8 +136,10 @@ account,name,link,keywords,language
 @phillycodehound@masto.ai,Seth Goldstein,https://masto.ai/@phillycodehound,photo-contributor,en
 @pierre@hosterra.social,Pierre Lannoy,https://hosterra.social/@pierre,core-contributor meetup-organizer photo-contributor plugin-developer translation-contributor translation-editor,fr en
 @pixolin@wp-social.net,Bego Mario Garde,https://wp-social.net/@pixolin,core-contributor meta-contributor plugin-developer support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,de en
+@pjohanneson@mstdn.ca,Patrick Johanneson,https://mstdn.ca/@pjohanneson,wordcamp-speaker,en
 @rachelcherry@higheredweb.social,Rachel Cherry,https://higheredweb.social/@rachelcherry,accessibility-contributor accessibility-team core-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
 @ramonfincken@mastodon.social,Ramon Fincken,https://mastodon.social/@ramonfincken,core-contributor plugin-developer,nl en 
+@ramoonus@toot.re,Ramon van Belzen,https://toot.re/@ramoonus,plugin-developer translation-contributor,en
 @rbairwell@functional.cafe,Richard Bairwell,https://functional.cafe/@rbairwell,plugin-developer,en
 @remkus@set.wordperf.com,Remkus de Vries,https://set.wordperf.com/@remkus,core-contributor meetup-organizer meta-contributor photo-contributor plugin-developer support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-speaker wordpress-tv-contributor wordpress-tv-team,en
 @rhyswynne@toot.wales,Rhys Wynne,https://toot.wales/@rhyswynne,core-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
@@ -175,6 +179,7 @@ account,name,link,keywords,language
 @stevegrunwell@mastodon.social,Steve Grunwell,https://mastodon.social/@stevegrunwell,core-contributor documentation-contributor plugin-developer translation-contributor wordcamp-speaker,en
 @takis@libretooth.gr,Takis Bouyouris,https://libretooth.gr/@takis,core-contributor meetup-organizer plugin-developer support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
 @tellyworth@ioc.exchange,tellyworth,https://ioc.exchange/@tellyworth,core-contributor core-team meta-contributor meta-team plugin-developer wordcamp-speaker,en
+@thatmitchcanter@wptoots.social,CMDR Mitchcraft,https://wptoots.social/@thatmitchcanter,core-contributor plugin-developer wordcamp-speaker,en
 @tillkruss@mastodon.social,Till Krüss,https://mastodon.social/@tillkruss,core-contributor core-performance-contributor core-performance-team plugin-developer theme-developer translation-contributor,en
 @tim@mastodon.timnolte.com,Tim Nolte,https://mastodon.timnolte.com/@tim,core-contributor plugin-developer translation-contributor wordcamp-organizer wordcamp-speaker,en
 @toddhalfpenny@fosstodon.org,Todd,https://fosstodon.org/@toddhalfpenny,core-contributor plugin-developer translation-contributor wordcamp-organizer,en
@@ -193,4 +198,5 @@ account,name,link,keywords,language
 @wpmodder@mastodon.social,Adam Warner,https://mastodon.social/@wpmodder,plugin-developer wordcamp-organizer wordcamp-speaker,en
 @wpswitzerland@wptoots.social,WordPress Switzerland,https://wptoots.social/@wpswitzerland,wordpress-event wordcamp wordpress-meetup,en de fr
 @zachflauaus@mas.to,Zach Flauaus,https://mas.to/@zachflauaus,core-contributor,en
+@zackkatz@mastodon.social,Zack Katz,https://mastodon.social/@zackkatz,core-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
 @zzap@wptoots.social,Milana Cap,https://wptoots.social/@zzap,core-contributor core-team documentation-contributor documentation-team meetup-organizer meta-contributor pattern-author support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
