@@ -26,6 +26,7 @@ account,name,link,keywords,language
 @carlhancock@mastodon.social,Carl Hancock,https://mastodon.social/@carlhancock,plugin-developer,en
 @cdils@wpbuilds.social,Carrie Dils,https://wpbuilds.social/@cdils,documentation-contributor plugin-developer test-contributor wordcamp-organizer wordcamp-speaker,en
 @chris@mastodon.chriswiegman.com,Chris Wiegman,https://mastodon.chriswiegman.com/@chris,core-contributor meta-contributor meta-team photo-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
+@chrisaldrich@mastodon.social,Chris Aldrich,https://mastodon.social/@chrisaldrich,wordcamp-speaker,en
 @chriscoyier@front-end.social,Chris Coyier,https://front-end.social/@chriscoyier,core-contributor plugin-developer wordcamp-speaker,en
 @chrisdavidmiles@abitmu.ch,Chris David Miles,https://abitmu.ch/@chrisdavidmiles,plugin-developer wordcamp-speaker,en
 @ChrisHardie@mastodon.social,Chris Hardie,https://@mastodon.social/@ChrisHardie,core-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
@@ -86,7 +87,9 @@ account,name,link,keywords,language
 @jessicalyschik@wp-social.net,Jessica Lyschik,https://wp-social.net/@jessicalyschik,core-contributor core-team documentation-contributor meetup-organizer meta-contributor test-contributor translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en de
 @jesusyesares@mapstodon.space,Jesús Yesares,https://mapstodon.space/@jesusyesares,meetup-organizer photo-contributor translation-contributor wordcamp-organizer wordcamp-speaker wordpress-tv-contributor,en es
 @jillbinder@mastodon.social,Jill Binder,https://mastodon.social/@jillbinder,community-contributor meetup-organizer training-contributor wordcamp-organizer wordcamp-speaker,en
+@jjeaton@mastodon.social,Josh Eaton,https://mastodon.social/@jjeaton,core-contributor documentation-contributor plugin-developer wordcamp-speaker,en
 @joehoyle@fosstodon.org,Joe Hoyle,https://fosstodon.org/@joehoyle,core-contributor core-team plugin-developer wordcamp-speaker,en
+@johnstonphilip@mstdn.social,Phil Johnston,https://mstdn.social/@johnstonphilip,core-contributor plugin-developer,en
 @jonathanbossenger@fosstodon.org,jonathanbossenger,https://fosstodon.org/@jonathanbossenger,community-team core-contributor core-team documentation-contributor meetup-organizer meta-contributor meta-team photo-contributor plugin-developer training-contributor translation-contributor wordcamp-organizer wordcamp-speaker,en
 @Jonni@norden.social,Jonas Zander,https://norden.social/@Jonni,photo-contributor test-contributor,de
 @joost@joost.net,Joost de Valk,https://joost.net/@joost,core-contributor marketing-contributor meta-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
@@ -199,4 +202,5 @@ account,name,link,keywords,language
 @wpswitzerland@wptoots.social,WordPress Switzerland,https://wptoots.social/@wpswitzerland,wordpress-event wordcamp wordpress-meetup,en de fr
 @zachflauaus@mas.to,Zach Flauaus,https://mas.to/@zachflauaus,core-contributor,en
 @zackkatz@mastodon.social,Zack Katz,https://mastodon.social/@zackkatz,core-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
+@Zodiac1978@wp-social.net,Torsten Landsiedel,https://wp-social.net/@Zodiac1978,core-contributor meta-contributor plugin-developer support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-speaker wordpress-tv-contributor,en
 @zzap@wptoots.social,Milana Cap,https://wptoots.social/@zzap,core-contributor core-team documentation-contributor documentation-team meetup-organizer meta-contributor pattern-author support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
