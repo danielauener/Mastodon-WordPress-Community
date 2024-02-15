@@ -27,6 +27,7 @@ account,name,link,keywords,language
 @carstingaxion@dewp.space,Carsten Bach,https://dewp.space/@carstingaxion,plugin-developer translation-contributor,en de
 @cdils@wpbuilds.social,Carrie Dils,https://wpbuilds.social/@cdils,documentation-contributor plugin-developer test-contributor wordcamp-organizer wordcamp-speaker,en
 @chris@mastodon.chriswiegman.com,Chris Wiegman,https://mastodon.chriswiegman.com/@chris,core-contributor meta-contributor meta-team photo-contributor plugin-developer wordcamp-organizer wordcamp-speaker,en
+@chris@suncoast.dev,Chris Lagasse,https://suncoast.dev/@chris,plugin-developer,en
 @chrisaldrich@mastodon.social,Chris Aldrich,https://mastodon.social/@chrisaldrich,wordcamp-speaker,en
 @chriscoyier@front-end.social,Chris Coyier,https://front-end.social/@chriscoyier,core-contributor plugin-developer wordcamp-speaker,en
 @chrisdavidmiles@mastodon.social,Chris David Miles,https://mastodon.social/@chrisdavidmiles,plugin-developer wordcamp-speaker,en
@@ -67,6 +68,7 @@ account,name,link,keywords,language
 @frantorres@mastodon.social,Francisco Torres,https://mastodon.social/@frantorres,meetup-organizer plugin-developer translation-contributor wordcamp-organizer wordcamp-speaker,en
 @futtta@mastodon.social,Frank Goossens,https://mastodon.social/@futtta,core-contributor plugin-developer translation-contributor translation-editor,en
 @gmazzap@phpc.social,Giuseppe Mazzapica,https://phpc.social/@gmazzap,plugin-developer wordcamp-speaker,en
+@gvenk@mastodon.xyz,gvenk,https://mastodon.xyz/@gvenk,photo-contributor plugin-developer translation-contributor,en
 @herchenroder@motern.media,herchenroder,https://motern.media/@herchenroder,plugin-developer,entwit.social
 @herrurbach@toot.jascha.wtf,Jascha Ezra,https://toot.jascha.wtf/@herrurbach,translation-contributor,de
 @hgg@wp-social.net,Hans-Gerd Gerhards,https://wp-social.net/@hgg,meetup-organizer photo-contributor plugin-developer support-contributor support-team test-contributor translation-contributor translation-editor,de
@@ -119,6 +121,7 @@ account,name,link,keywords,language
 @KZeni@mstdn.social,Kurt Zenisek,https://mstdn.social/@KZeni,core-contributor plugin-developer,en
 @LarsHenriksen@mastodon.nu,Lars Henriksen,https://mastodon.nu/@LarsHenriksen,translation-contributor translation-editor,dk en
 @lopo@mastodon.uno,Enrico Battocchi,https://mastodon.uno/@lopo,core-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,it en
+@lucp@toot.re,Luc Princen,https://toot.re/@lucp,core-contributor documentation-contributor translation-contributor wordcamp-organizer wordcamp-speaker,en
 @macmanx@social.vivaldi.net,James Huff,https://social.vivaldi.net/@macmanx,core-contributor meta-contributor plugin-developer support-contributor support-team,en
 @made_by_denis@phpc.social,Denis Žoljom,https://phpc.social/@made_by_denis,core-contributor documentation-contributor meetup-organizer meta-contributor plugin-developer theme-developer themes-team wordcamp-speaker,en
 @mariecomet@piaille.fr,Marie Comet,https://piaille.fr/@mariecomet,core-contributor documentation-contributor documentation-team meetup-organizer photo-contributor plugin-developer translation-contributor translation-editor,fr en
@@ -148,6 +151,7 @@ account,name,link,keywords,language
 @overengineer@fosstodon.org,overengineer,https://fosstodon.org/@overengineer,plugin-developer translation-contributor translation-editor,en
 @patriciabt@tooting.ch,Patricia BT,https://tooting.ch/@patriciabt,meetup-organizer community-contributor wordcamp-organizer wordcamp-speaker wordcamp-mentor,en fr
 @paul@digitalstuntfactory.com,Paul Jacobson,https://digitalstuntfactory.com/@paul,plugin-developer,en
+@paulb@mastodon.social,Paul Bunkham,https://mastodon.social/@paulb,core-contributor plugin-developer wordcamp-organizer,en
 @paulvanbuuren@mastodon.social,Paul van Buuren,https://mastodon.social/@paulvanbuuren,translation-contributor wordcamp-speaker,en nl de fr
 @perishable@mastodon.social,Jeff Starr,https://mastodon.social/@perishable,plugin-developer,en
 @peter@wpbuilds.social,Peter Ingersoll,https://wpbuilds.social/@peter,documentation-contributor meetup-organizer training-contributor wordcamp-speaker,en
@@ -221,6 +225,7 @@ account,name,link,keywords,language
 @vapvarun@mastodon.social,Varun Dubey,https://mastodon.social/@vapvarun,buddypress-contributor photo-contributor plugin-developer translation-contributor translation-editor wordcamp-speaker,en
 @viewfromthebox@mastodon.social,Jacob Martella,https://mastodon.social/@viewfromthebox,meetup-organizer photo-contributor plugin-developer theme-developer wordcamp-organizer wordcamp-speaker,en
 @wahalahti@mementomori.social,Timi Wahalahti,https://mementomori.social/@wahalahti,buddypress-contributor community-contributor community-team core-contributor meetup-organizer meta-contributor photo-contributor plugin-developer translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en
+@walterebert@social.walterebert.com,Walter Ebert,https://social.walterebert.com/@walterebert,Core Contributor Meetup Organizer Plugin Developer Theme Developer WordCamp Organizer WordCamp Speaker WordPress.tv Contributor,en de nl
 @wceurope@mstdn.social,WordCamp Europe,https://mstdn.social/@wceurope,wordpress-event wordcamp,en
 @webaware@fosstodon.org,Ross McKay,https://fosstodon.org/@webaware,bbpress-contributor core-contributor plugin-developer translation-contributor translation-editor,en
 @westonruter@mastodon.social,Weston ruter,https://mastodon.social/@westonruter,core-contributor core-team documentation-contributor meta-contributor plugin-developer wordcamp-speaker,en es
@@ -229,6 +234,7 @@ account,name,link,keywords,language
 @WordcampMontclair@wptoots.social,WordCamp Montclair,https://wptoots.social/@WordcampMontclair,wordpress-event wordcamp,en
 @WordCampPHX@wptoots.social,WordCamp Phoenix 2024,https://wptoots.social/@WordCampPHX,wordpress-event wordcamp,en
 @WordcampTorino@wptoots.social,WordCamp Torino,https://wptoots.social/@WordcampTorino,wordpress-event wordcamp,it en
+@wpfra@frankfurt.social,WordPress Meetup Frankfurt,https://frankfurt.social/@wpfra,wordpress-event wordpress-meetup,de
 @wpjena@dewp.space,WordPress Meetup Jena,https://dewp.space/@wpjena,wordpress-event wordpress-meetup,de
 @wpmodder@mastodon.social,Adam Warner,https://mastodon.social/@wpmodder,plugin-developer wordcamp-organizer wordcamp-speaker,en
 @wpswitzerland@wptoots.social,WordPress Switzerland,https://wptoots.social/@wpswitzerland,wordpress-event wordcamp wordpress-meetup,en de fr
