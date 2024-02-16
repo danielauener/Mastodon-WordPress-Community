@@ -57,6 +57,7 @@ account,name,link,keywords,language
 @dougal@mastodon.social,Dougal Campbell,https://mastodon.social/@dougal,bbpress-contributor core-contributor plugin-developer wordcamp-speaker,en
 @Dudo@mastodon.uno,Dario Curvino,https://mastodon.uno/@Dudo,core-contributor plugin-developer translation-contributor translation-editor,en
 @dustinrue@mastodon.dustinrue.com,Dustin Rue,https://mastodon.dustinrue.com/@dustinrue,core-contributor,en
+@dvk@toot.re,Danny van Kooten,https://toot.re/@dvk,core-contributor plugin-developer translation-contributor translation-editor,nl en
 @edent@mastodon.social,Terence Eden,https://mastodon.social/@Edent,core-contributor plugin-developer translation-contributor,en
 @elliot@wpbuilds.social,Elliot Sowersby,https://wpbuilds.social/@elliot,plugin-developer translation-contributor,en
 @emanuel@toot.community,Emanuel Blagonic,https://toot.community/@emanuel,community-contributor core-contributor translation-contributor wordcamp-organizer wordcamp-speaker,en
@@ -149,6 +150,7 @@ account,name,link,keywords,language
 @oneal@mastodon.social,Oneal Rosero,https://mastodon.social/@oneal,community-contributor wordcamp-organizer,en
 @otto42@fosstodon.org,Otto,https://fostodon.org/@otto42,bbpress-contributor core-contributor core-performance-contributor core-performance-team documentation-contributor documentation-team marketing-contributor meta-contributor meta-team photo-contributor photos-team plugin-developer plugin-review-team security-contributor security-team support-contributor support-team themes-team translation-contributor translation-editor wordcamp-speaker,en
 @overengineer@fosstodon.org,overengineer,https://fosstodon.org/@overengineer,plugin-developer translation-contributor translation-editor,en
+@palmiak@mas.to,Maciek Palmowski,https://mas.to/@palmiak,core-contributor plugin-developer translation-contributor wordcamp-organizer wordcamp-speaker,pl en
 @patriciabt@tooting.ch,Patricia BT,https://tooting.ch/@patriciabt,meetup-organizer community-contributor wordcamp-organizer wordcamp-speaker wordcamp-mentor,en fr
 @paul@digitalstuntfactory.com,Paul Jacobson,https://digitalstuntfactory.com/@paul,plugin-developer,en
 @paulb@mastodon.social,Paul Bunkham,https://mastodon.social/@paulb,core-contributor plugin-developer wordcamp-organizer,en
@@ -213,6 +215,7 @@ account,name,link,keywords,language
 @tellyworth@ioc.exchange,tellyworth,https://ioc.exchange/@tellyworth,core-contributor core-team meta-contributor meta-team plugin-developer wordcamp-speaker,en
 @tdh@mastodon.social,Thord D. Hedengren,https://mastodon.social/@tdh,core-contributor translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,se en
 @thatmitchcanter@wptoots.social,CMDR Mitchcraft,https://wptoots.social/@thatmitchcanter,core-contributor plugin-developer wordcamp-speaker,en
+@threadi@mastodon.social,threadi,https://mastodon.social/@threadi,core-contributor plugin-developer test-contributor translation-contributor translation-editor,de en
 @tillkruss@mastodon.social,Till Krüss,https://mastodon.social/@tillkruss,core-contributor core-performance-contributor core-performance-team plugin-developer theme-developer translation-contributor,en
 @tim@mastodon.timnolte.com,Tim Nolte,https://mastodon.timnolte.com/@tim,core-contributor plugin-developer translation-contributor wordcamp-organizer wordcamp-speaker,en
 @tobifjellner@mastodon.social,Tor-Björn Fjellner,https://mastodon.social/@tobifjellner,buddypress-contributor core-contributor meta-contributor plugin-developer support-contributor support-team translation-contributor translation-editor wordcamp-organizer wordcamp-speaker,en sv ru es
